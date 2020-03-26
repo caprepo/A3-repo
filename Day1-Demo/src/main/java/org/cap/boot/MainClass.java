@@ -7,6 +7,7 @@ public class MainClass {
 	public static void main(String[] arg) {
 		SalesClass obj=new SalesClass();
 		obj.print();
+		obj.display();
 		show();
 	}
 	

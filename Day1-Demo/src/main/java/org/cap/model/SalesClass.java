@@ -8,5 +8,9 @@ public class SalesClass {
 		for(int i=0;i<arr.length;i++)
 			System.out.println(arr[i]);
 	}
+	
+	public void display() {
+		System.out.println("Display Sales details Here!");
+	}
 
 }
